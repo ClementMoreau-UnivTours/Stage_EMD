@@ -1,0 +1,45 @@
+variable,value,desc_original,desc_en
+P2,1,homme,male
+P2,2,femme,female
+P9,1,travail à plein temps,full-time employment
+P9,2,travail à temps partiel,part-time employment
+P9,3,apprentissage-  formation-  stage,internship
+P9,4,étudiant,university student
+P9,5,scolaire-  jusqu'au bac,school student
+P9,6,chômeur-  chercheur d'emploi,unemployed
+P9,7,retraité,retired
+P9,8,reste au foyer,stay at home
+P9,9,autre,other
+P11,1,agriculteurs,farmers
+P11,2,artisan-  commerçant-  chef d’entreprise ,business owners and shop keepers
+P11,3,cadre et profession intellectuelle supérieure ,executive and professionals
+P11,4,profession intermédiaire ,technicians and associate professionals
+P11,5,employé ,employees
+P11,6,ouvrier ,blue collar workers
+P11,7,élève-  étudiant ,no professional activity
+P11,8,chômeur n’ayant jamais travaillé ,no professional activity
+P11,9,autre inactif n’ayant jamais travaillé,no professional activity
+PL8,1,plusieurs jours par semaine,multi-days-week
+PL8,2,plusieurs jours par mois,multi-days-month
+PL8,3,occasionnellement,rarely
+PL8,4,jamais,never
+P20,1,plusieurs jours par semaine,multi-days-week
+P20,2,plusieurs jours par mois,multi-days-month
+P20,3,occasionnellement,rarely
+P20,4,jamais,never
+P21,1,plusieurs jours par semaine,multi-days-week
+P21,2,plusieurs jours par mois,multi-days-month
+P21,3,occasionnellement,rarely
+P21,4,jamais,never
+P22,1,plusieurs jours par semaine,multi-days-week
+P22,2,plusieurs jours par mois,multi-days-month
+P22,3,occasionnellement,rarely
+P22,4,jamais,never
+P24,1,plusieurs jours par semaine,multi-days-week
+P24,2,plusieurs jours par mois,multi-days-month
+P24,3,occasionnellement,rarely
+P24,4,jamais,never
+PL9,1,plusieurs jours par semaine,multi-days-week
+PL9,2,plusieurs jours par mois,multi-days-month
+PL9,3,occasionnellement,rarely
+PL9,4,jamais,never
